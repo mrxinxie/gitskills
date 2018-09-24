@@ -1,2 +1,2 @@
 Creating a new branch is quick and simple.
-Practice of branches management.
+Practice of branches management ends up.
